@@ -7,12 +7,12 @@
       "type": "-",
       "class": "-",
       "bench_name": "-",
-      "r1y": "-",
-      "r3y": "-",
-      "r5y": "-",
-      "returns": "-",
-      "exp_rat": "-",
-      "aum": "-"
+      "r1y": 0,
+      "r3y": 0,
+      "r5y": 0,
+      "returns": 0,
+      "exp_rat": 0,
+      "aum": 0
    }, {
       "isin": "INF174K01DT7",
       "amc": "0C00001P1X",
